@@ -1,0 +1,54 @@
+body {
+	margin: 0px 0px 0px 0px;
+	font-family: Tahoma, Verdana, Calibri;
+}
+h1 {
+	text-align: center;
+}
+#topimg {
+	width: 100%;
+	height: 500px; 
+	clear: both;
+}
+#diva {
+	clear: both;
+	z-index: 1;
+	text-align: center;
+}
+#footer {
+  background-color: #505050;
+  height: 125px;
+  float: bottom;
+}
+#footer_img {
+  width: 120px;
+  float: right;
+  height: 75px;
+  margin-right: 20px;
+}
+#footer_p {
+  color:#181818;
+}
+.bodiv {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+#ok {
+	
+}
+.pPp {
+	font-weight: bold;
+	font-size: 25px;
+}
+.GoodGameVN {
+	width: 33%;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
